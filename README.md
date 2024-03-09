@@ -2,6 +2,12 @@
 
 iOS shortcut to send automated birthday whishes.
 
+## birthday-gpt version downloads
+
+### `v1.0.0`
+
+[Download](https://www.icloud.com/shortcuts/23923aecc2b5486b80d94ad097e9548e)
+
 ## what does it do?
 
 1. looks through your calendar for todays birthdays
@@ -41,12 +47,6 @@ iOS shortcut to send automated birthday whishes.
 <p align="center">
   <img src="assets/whatsapp-note-message.png">
 </p>
-
-## birthday-gpt version downloads
-
-### `v1.0.0`
-
-[Download](https://www.icloud.com/shortcuts/23923aecc2b5486b80d94ad097e9548e)
 
 ## dependencies
 
